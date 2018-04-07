@@ -1,6 +1,4 @@
-Sample p5 sketch
+Mouse following swarm
 ===
 
-This is just the skeleton that I use for creating a new p5 sketch.
-
-* [P5 Reference](https://p5js.org/reference/)
+This is a fairly simple re-implementation of xswarm.
